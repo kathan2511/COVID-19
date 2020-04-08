@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "604382819670",
+    "firebase_url": "https://covid-19-5bedd.firebaseio.com",
+    "project_id": "covid-19-5bedd",
+    "storage_bucket": "covid-19-5bedd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604382819670:android:cc8bff57a6a6af373752f7",
+        "android_client_info": {
+          "package_name": "com.kathanshah.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604382819670-8stq6c61kmhmm0dfp5j9jqptgqprai59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxY-Z_BMt8oFiqYzMQvwFrHB8pf964SfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604382819670-8stq6c61kmhmm0dfp5j9jqptgqprai59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
