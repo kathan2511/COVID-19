@@ -1,4 +1,4 @@
-import 'package:covid19/chart_page.dart';
+// import 'package:covid19/chart_page.dart';
 import 'package:covid19/home.dart';
 import 'package:covid19/imp_links_page.dart';
 import 'package:covid19/new_page.dart';
