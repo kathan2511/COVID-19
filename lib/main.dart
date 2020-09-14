@@ -43,7 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
   int _selectedIndex = 0;
   static List<Widget> _widgetOptions = <Widget>[
     HomePage(),
-    NewsPage(),
+   
     ImportantLinks(),
   ];
 
@@ -67,10 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
               icon: Icon(Icons.home),
               title: Text('Home'),
             ),
-            BottomNavigationBarItem(
-              icon: Icon(Icons.calendar_today),
-              title: Text('News'),
-            ),
+         
             BottomNavigationBarItem(
               icon: Icon(Icons.share),
               title: Text('Links'),
